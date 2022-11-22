@@ -1,0 +1,42 @@
+[
+    {
+        "img":"/img/nwh.jpg",
+        "titulo":"Spider-Man: No Way Home",
+        "duracion":"Duración: 2h 28m",
+        "descripcion":"Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter le pide ayuda al Doctor Strange para recuperar su vida, pero algo sale mal y provoca una fractura en el multiverso.",
+        "actores":"Actúan: Tom Holland, Zendaya, Benedict Cumberbatch, Tobey Maguire, Andrew Garfield.",
+        "opinion":"Al 91% le gustó esta película"
+    },
+    {
+        "img":"/img/maverick.jpg",
+        "titulo":"Top Gun: Maverick",
+        "duracion":"Duración: 2h 11m",
+        "descripcion":"Maverick, quien lleva 30 años de servicio, es ahora instructor de pilotos militares. Una última misión, un sacrificio final, obliga a este maestro de los cielos a enfrentar las heridas abiertas del pasado y sus temores más profundos.",
+        "actores":"Actúan: Tom Cruise, Val Kilmer, Miles Teller, Jennifer Connelly, Glen Powell.",
+        "opinion":"Al 94% le gustó esta película"
+    },
+    {
+        "img":"/img/jw.jpg",
+        "titulo":"Jurassic World: Dominion",
+        "duracion":"Duración: 2h 27m",
+        "descripcion":"La isla Nublar y su parque han sido destruidos, pero el problema no se terminó. Con los dinosaurios dispersos por todo el mundo, la convivencia entre el presente y el pasado alcanza un nuevo nivel de tensión.",
+        "actores":"Actúan: Laura Dern, Jeff Goldblum, Sam Neill, Chris Pratt, Bryce Dallas Howard.",
+        "opinion":"Al 79% le gustó esta película"
+    },
+    {
+        "img":"/img/batman.jpg",
+        "titulo":"The Batman",
+        "duracion":"Duración: 2h 56m",
+        "descripcion":"Batman explora la corrupción existente en la ciudad de Gotham y el vínculo de esta con su propia familia. Además, entra en conflicto con un asesino en serie conocido como 'el Acertijo'.",
+        "actores":"Actúan: Robert Pattinson, Zoë Kravitz, Paul Dano, Colin Farrell, Jeffrey Wright, Andy Serkis.",
+        "opinion":"Al 83% le gustó esta película"
+    },
+    {
+        "img":"/img/morbius.jpg",
+        "titulo":"Morbius, la leyenda de Marvel",
+        "duracion":"Duración: 1h 44m",
+        "descripcion":"Al intentar encontrar una cura para una extraña enfermedad en su sangre, un doctor se transforma en un vampiro. Morbius es sin duda alguna una pelicula de la historia, además de, la mejor pelicula de Morbius. ¡IT'S MORBIN TIME!",
+        "actores":"Actúan: Jared Leto, Matt Smith, Michael Keaton, Adria Arjona, Tyrese Gibson.",
+        "opinion":"Al 100% le gustó esta película (todo el mundo)"
+    }
+]
